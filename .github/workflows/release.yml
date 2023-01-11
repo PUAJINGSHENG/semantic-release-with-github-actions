@@ -1,4 +1,4 @@
-name: Release npm pac
+name: Release npm package
 
 on:
   push:
